@@ -1,5 +1,5 @@
 {
-  "name": "IRIS-MD",
+  "name": "Jinwiil",
   "version": "1.2.7",
   "description": "Simple lightweight whatsapp bot",
   "logo": "https://imgur.com/D60nScQ.jpg",
@@ -29,7 +29,7 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": true,
-      "value": "8801975492880"
+      "value": "254769365617"
     },
     "INFO": {
       "description": "Enter the Type of pic & ownername & botname u want",
